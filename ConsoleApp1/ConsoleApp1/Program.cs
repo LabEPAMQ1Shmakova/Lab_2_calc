@@ -4,11 +4,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Method1(double a, double b, double total, char oper);
-        { 
-         
         
-        }
         static void Main(string[] args)
         {
             
