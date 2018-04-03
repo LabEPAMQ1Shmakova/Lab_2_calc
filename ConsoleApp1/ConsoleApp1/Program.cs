@@ -11,10 +11,7 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            double a;
-            double b;
-            double total; 
-            char oper; 
+            
 
             do
             {
